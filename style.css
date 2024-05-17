@@ -49,5 +49,7 @@ body{
     padding: 50px 0;
 }
 .estudante-todos{
+    display: grid;
+    grid-template-rows: 20% 20% 20% 20%;
     
 }
